@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Viktor Pyskunov",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vicpi/react-notification-redux.git"
+  },
   "license": "MIT",
   "dependencies": {
     "babel-cli": "^6.26.0",
