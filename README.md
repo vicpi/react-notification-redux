@@ -67,4 +67,8 @@ import {showNotification} from 'react-notification-redux';
 ...
 ```
 
+## License
+
+MIT
+
 
